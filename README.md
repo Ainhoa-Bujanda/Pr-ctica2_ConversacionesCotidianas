@@ -9,7 +9,7 @@
 ---
 
 ## Índice
-### (Para que el índice funcione correctamente, visualizar en GitHub)
+
 
 1. [Introducción](#1-introducción)
 2. [Funciones comunicativas](#2-funciones-comunicativas)
